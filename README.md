@@ -8,7 +8,7 @@ To vist the chat app use the following link.
 https://chat-app-chat-engine-kmfp.vercel.app/
 ```
 
-This app can handle only 10 users for now.
+This app can handle only 10 users for now due to the limitation of free version of Chat Engine.
 
 To try the app use the following username to access the chat app.
 
